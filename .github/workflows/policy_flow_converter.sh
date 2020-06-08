@@ -1,7 +1,18 @@
 #POLICY-FLOW CONVERTER
  #Versao: 2.0
 
-  printf "######################POLICY-FLOW CONVERTER######################\n"
+  printf "                 _   _   _   _   _   _   _   _   _   _   _   \n"
+  printf "                / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \  \n"
+  printf "               ( P | o | l | i | c | y | - | F | l | o | w ) \n" 
+  printf "                \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/  \n"
+  printf "                     _   _   _   _   _   _   _   _   _       \n"
+  printf "                    / \ / \ / \ / \ / \ / \ / \ / \ / \      \n"
+  printf "                   ( C | o | n | v | e | r | t | e | r )     \n"
+  printf "                    \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/      \n"
+  
+ printf "##################################Versao 2.0##################################\n"
+    
+  
   echo Informe o nome do arquivo de entrada:
   read arq_entrada;
   echo Informe o nome do arquivo de saida OpenFlow:
