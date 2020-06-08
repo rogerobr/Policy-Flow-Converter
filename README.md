@@ -9,9 +9,10 @@ Durante a execução serão solicitadas as seguintes informações:
   - Arquivo de entrada: Deve ser informado o nome e local do arquivo que possui as regras NFtables;
   - Arquivo do padrão OpenFlow: Nome do arquivo de saída para o padrão Openflow;
   - Arquivo do padrão OpenVswitch: Nome do arquivo para saída com o padrão OpenVswitch.
+  - Nome do dispositivo OpenVswitch: Nome do dispositivo que receberá as regras migradas.
 
 Saídas após processamento do framework:
- - Arquivo no padrão OpenFlow: Este arquivo possui o objetivo fornecer uma biblioteca padrão para migração de regras do NFtables para o padrão Openflow. Esta migração contempla a adequação dos valores dos campos de filtragem, seguindo o padrão descrito na documentação do OpenFlow 1.5.1. 
+ - Arquivo no padrão OpenFlow: Este arquivo possui o objetivo fornecer uma biblioteca padrão para migração de regras do NFtables para o padrão Openflow. Esta migração contempla a adequação para campos de filtragem seus valores e ação, seguindo o padrão descrito na documentação do OpenFlow 1.5.1. 
  - Arquivo no padrão OpenVswitch: Este arquivo retorna as regras convertidas para o padrão OpenVswitch, já em formato de adição de novos fluxos (add-flow). 
  
  Formato da biblioteca padrão OpenFlow:
