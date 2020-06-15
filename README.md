@@ -10,6 +10,14 @@ Durante a execução serão solicitadas as seguintes informações:
   - Arquivo do padrão OpenFlow: Nome do arquivo de saída para o padrão Openflow;
   - Arquivo do padrão OpenVswitch: Nome do arquivo para saída com o padrão OpenVswitch.
   - Nome do dispositivo OpenVswitch: Nome do dispositivo que receberá as regras migradas.
+  - Nome do dispositivo bridge OVS que receberá as regras;
+  - Exitência de VLANS no firewall NFtables:
+        - Em caso de resposta positiva serão solicitadas as informações referente a quantidade e posteriormente o     endereçamento de cada VLAN para criação de regras de manutenção de acesso layer 2.
+        - Em caso de resposta negativa oserão realizadas as conversões sem a criação de regras para manutenção de acessos em um possível layer 2.
+        
+        
+
+  
 
 Saídas após processamento do framework:
  - Arquivo no padrão OpenFlow: Este arquivo possui o objetivo fornecer uma biblioteca padrão para migração de regras do NFtables para o padrão Openflow. Esta migração contempla a adequação para campos de filtragem seus valores e ação, seguindo o padrão descrito na documentação do OpenFlow 1.5.1. 
