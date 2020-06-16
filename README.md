@@ -5,7 +5,7 @@ O framework Policy Flow Converter tem como objetivo automatizar a importação d
 <b>Instruções de Funcionamento:</b>
 Primeiramente deverão ser extraídas as políticas de cada firewall que será migrado em formato texto, sendo que as informações podem ser obtidas de maneira simples através do comando "nft list table nome-da-tabela » arquivo.txt".
 
-Durante a execução serão solicitadas as seguintes informações:
+Para a execução deve-se copiar o arquivo "policy_flow_converter.sh" e executar em diretório o qual possua permissão de escrita. Durante a execução serão solicitadas as seguintes informações:
   - Arquivo de entrada: Deve ser informado o nome e local do arquivo que possui as regras NFtables;
   - Arquivo do padrão OpenFlow: Nome do arquivo de saída para o padrão Openflow;
   - Arquivo do padrão OpenVswitch: Nome do arquivo para saída com o padrão OpenVswitch.
