@@ -12,7 +12,7 @@ Para a execução deve-se copiar o arquivo "policy_flow_converter.sh" e executar
   - Nome do dispositivo OpenVswitch: Nome do dispositivo que receberá as regras migradas.
   - Existência de VLANS no firewall NFtables:
        * Em caso de resposta positiva serão solicitadas as informações referente a quantidade e posteriormente o     endereçamento de cada VLAN para criação de regras de manutenção de acesso layer 2.
-       * Em caso de resposta negativa oserão realizadas as conversões sem a criação de regras para manutenção de acessos em um possível layer 2.
+       * Em caso de resposta negativa serão realizadas as conversões sem a criação de regras para manutenção de acessos em um possível layer 2.
         
 <b>Saídas após processamento do framework:</b>
  - Arquivo no padrão OpenFlow: Este arquivo possui o objetivo fornecer uma biblioteca padrão para migração de regras do NFtables para o padrão Openflow. Esta migração contempla a adequação para campos de filtragem seus valores e ação, seguindo o padrão descrito na documentação do OpenFlow 1.5.1. 
