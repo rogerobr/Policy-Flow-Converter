@@ -1,6 +1,6 @@
 # Policy-Flow-Converter
 
-O framework Policy Flow Converter tem como objetivo automatizar a importação das políticas de acesso existentes no NFtables para o padrão OpenFlow, este processo inicia-se pela extraçãodas configurações de um ambiente convencional,  adequando as regras de firewall de acordo com a especificações do protocolo Openflow. Através do framework foi estabelecido uma biblioteca com os campos padrões do OpenFlow 1.5.1, possibilitando assim a reusabilidade dos componentes para uma segunda conversão utilizando outros padrões específicos de dispositivos OpenFlow. Nesta versão está contemplada com um modulo de conversão para o OpenVswitch. 
+O framework Policy Flow Converter tem como objetivo automatizar a importação das políticas de acesso existentes no NFtables para o padrão OpenFlow, este processo inicia-se pela extração das configurações de um ambiente convencional,  adequando as regras de firewall de acordo com a especificações do protocolo Openflow. Através do framework foi estabelecido uma biblioteca com os campos padrões do OpenFlow 1.5.1, possibilitando assim a reusabilidade dos componentes para uma segunda conversão utilizando outros padrões específicos de dispositivos OpenFlow. Nesta versão está contemplada com um modulo de conversão para o OpenVswitch. 
 
 <b>Instruções de Funcionamento:</b>
 Primeiramente deverão ser extraídas as políticas de cada firewall que será migrado em formato texto, sendo que as informações podem ser obtidas de maneira simples através do comando "nft list table nome-da-tabela » arquivo.txt".
