@@ -19,7 +19,7 @@ Para a execução deve-se copiar o arquivo "policy_flow_converter.sh" e executar
  - Arquivo no padrão OpenVswitch: Este arquivo retorna as regras convertidas para o padrão OpenVswitch, já em formato de adição de novos fluxos (add-flow). 
  
 <b> Formato da biblioteca padrão OpenFlow:</b>
-- Formato das regras:  {Campo X} {Valor X} {Campo Y} {Valor Y} {Campo Z} {Valor X} {Campo N} {Valor N} {Ação} 
+- Formato das regras:  {Campo X} {Valor X} {Campo Y} {Valor Y} {Campo Z} {Valor Z} {Campo N} {Valor N} {Ação} 
 - Formato dos campos: 
   - Protocolo: OFPXMT_OFB_IP_PROTO
   - IP Origem: OFPXMT_OFB_IPV4_SRC
