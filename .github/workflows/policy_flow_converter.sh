@@ -24,8 +24,30 @@ printf "##################################Versao 2.0############################
   echo Informe o nome do dispositivo Bridge OVS:
   read bridge_ovs;
 
+ #Remove Output
+echo > "" $arq_saida
+#Pega numero de Vlans
+echo "Entre com o numero de vlan(s) " ; read nvlan
+#Se nao tiver Vlans
+if [ "$nvlan" -eq "0" ]; then
+        echo "Sem Vlans para adicionar"
+#Se tiver 1 vlan
+elif [ "$nvlan" -eq "1" ]; then
+        echo "Entre com a vlan(x.x.x.x/y) " ; read vlan
+        echo oxm_of_ipv4_src $vlan oxm_of_ipv4_dst $vlan ofpat_output >> $arq_saida
+#Se tiver mais de 1 vlan
+else
+        for i in $(seq 1 $nvlan);
+        do
+        echo "Entre com a vlan(x.x.x.x/y) " ; read vlan
+        echo oxm_of_ipv4_src $vlan oxm_of_ipv4_dst $vlan ofpat_output >> $arq_saida
+        done
+fi
+
+
+
  tr [:upper:] [:lower:] < $arq_entrada > temp.txt
- cp temp.txt $arq_saida
+ cat temp.txt >> $arq_saida
  rm -rf temp.txt
 
   printf "###Iniciando conversao...###\n"
