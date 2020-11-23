@@ -1,0 +1,1706 @@
+
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 53111 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.140 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 49721 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   8.00-9.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.156 ms  1/4167 (0.024%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 39713 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.99 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.94 Mbits/sec  0.127 ms  9/4167 (0.22%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 46006 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   2.00-3.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   8.00-9.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.220 ms  1/4167 (0.024%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 44463 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.99 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.080 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 37220 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.124 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 36460 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.128 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 33389 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.95 Mbits/sec  0.219 ms  4/4167 (0.096%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 47587 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   5.00-6.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.95 Mbits/sec  0.133 ms  2/4167 (0.048%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 32800 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.244 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 56899 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   5.00-6.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   8.00-9.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.075 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 40404 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   5.00-6.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.99 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.129 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 55548 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   5.00-6.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.94 Mbits/sec  0.129 ms  6/4167 (0.14%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 53060 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.95 Mbits/sec  0.096 ms  4/4167 (0.096%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 47735 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.99 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.120 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 34384 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.112 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 47771 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.184 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 51340 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   2.00-3.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.136 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 60383 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   2.00-3.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.94 Mbits/sec  0.191 ms  6/4167 (0.14%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 52798 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.264 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 45599 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.99 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.093 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 52914 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   8.00-9.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.127 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 55877 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.088 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 43057 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   4.00-5.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.95 Mbits/sec  0.127 ms  4/4167 (0.096%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 54011 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   2.00-3.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   5.00-6.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   8.00-9.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.95 Mbits/sec  0.159 ms  3/4167 (0.072%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 42489 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   2.00-3.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   5.00-6.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   8.00-9.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.135 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 50074 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   8.00-9.00   sec  1.19 MBytes  9.99 Mbits/sec  416
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.174 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 48683 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   8.00-9.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.161 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 34062 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.99 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.95 Mbits/sec  0.133 ms  5/4167 (0.12%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 58500 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   1.00-2.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   4.00-5.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   7.00-8.00   sec  1.19 MBytes  9.98 Mbits/sec  416
+[  5]   8.00-9.00   sec  1.19 MBytes  10.0 Mbits/sec  417
+[  5]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  417
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  11.9 MBytes  10.0 Mbits/sec  0.000 ms  0/4167 (0%)  sender
+[  5]   0.00-10.04  sec  11.9 MBytes  9.96 Mbits/sec  0.120 ms  0/4167 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 43405 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  76.8 MBytes   645 Mbits/sec  26856
+[  5]   1.00-2.00   sec  70.3 MBytes   590 Mbits/sec  24578
+[  5]   2.00-3.00   sec   102 MBytes   854 Mbits/sec  35573
+[  5]   3.00-4.00   sec  65.2 MBytes   547 Mbits/sec  22800
+[  5]   4.00-5.00   sec  75.0 MBytes   629 Mbits/sec  26216
+[  5]   5.00-6.00   sec  88.1 MBytes   739 Mbits/sec  30783
+[  5]   6.00-7.00   sec  63.6 MBytes   534 Mbits/sec  22241
+[  5]   7.00-8.00   sec  66.7 MBytes   560 Mbits/sec  23325
+[  5]   8.00-9.00   sec  82.1 MBytes   689 Mbits/sec  28707
+[  5]   9.00-10.00  sec  76.7 MBytes   643 Mbits/sec  26792
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   766 MBytes   643 Mbits/sec  0.000 ms  0/267871 (0%)  sender
+[  5]   0.00-10.26  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 59224 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  75.2 MBytes   631 Mbits/sec  26298
+[  5]   1.00-2.00   sec  80.2 MBytes   673 Mbits/sec  28047
+[  5]   2.00-3.00   sec  70.7 MBytes   593 Mbits/sec  24698
+[  5]   3.00-4.00   sec  85.7 MBytes   719 Mbits/sec  29949
+[  5]   4.00-5.00   sec  66.8 MBytes   560 Mbits/sec  23340
+[  5]   5.00-6.00   sec  71.2 MBytes   597 Mbits/sec  24880
+[  5]   6.00-7.00   sec  70.0 MBytes   587 Mbits/sec  24465
+[  5]   7.00-8.00   sec  74.8 MBytes   628 Mbits/sec  26153
+[  5]   8.00-9.00   sec  69.1 MBytes   580 Mbits/sec  24152
+[  5]   9.00-10.00  sec  73.7 MBytes   618 Mbits/sec  25749
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   737 MBytes   619 Mbits/sec  0.000 ms  0/257731 (0%)  sender
+[  5]   0.00-10.04  sec  1.38 MBytes  1.15 Mbits/sec  0.467 ms  254166/254649 (1e+02%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 42763 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  87.8 MBytes   736 Mbits/sec  30676
+[  5]   1.00-2.00   sec  93.4 MBytes   784 Mbits/sec  32663
+[  5]   2.00-3.00   sec  81.0 MBytes   680 Mbits/sec  28319
+[  5]   3.00-4.00   sec  85.7 MBytes   719 Mbits/sec  29955
+[  5]   4.00-5.00   sec  88.1 MBytes   739 Mbits/sec  30790
+[  5]   5.00-6.00   sec  71.3 MBytes   596 Mbits/sec  24906
+[  5]   6.00-7.00   sec  60.0 MBytes   505 Mbits/sec  20955
+[  5]   7.00-8.00   sec  63.6 MBytes   534 Mbits/sec  22233
+[  5]   8.00-9.00   sec  75.4 MBytes   632 Mbits/sec  26344
+[  5]   9.00-10.00  sec  74.0 MBytes   620 Mbits/sec  25851
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   780 MBytes   654 Mbits/sec  0.000 ms  0/272692 (0%)  sender
+[  5]   0.00-10.26  sec  5.20 MBytes  4.25 Mbits/sec  0.215 ms  127008/128825 (99%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 46198 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  89.0 MBytes   747 Mbits/sec  31121
+[  5]   1.00-2.00   sec  64.9 MBytes   545 Mbits/sec  22690
+[  5]   2.00-3.00   sec  72.7 MBytes   610 Mbits/sec  25423
+[  5]   3.00-4.00   sec  68.6 MBytes   575 Mbits/sec  23969
+[  5]   4.00-5.00   sec   101 MBytes   845 Mbits/sec  35217
+[  5]   5.00-6.00   sec  81.8 MBytes   686 Mbits/sec  28601
+[  5]   6.00-7.00   sec  89.0 MBytes   747 Mbits/sec  31113
+[  5]   7.00-8.00   sec  64.2 MBytes   538 Mbits/sec  22436
+[  5]   8.00-9.00   sec  79.4 MBytes   666 Mbits/sec  27769
+[  5]   9.00-10.00  sec  99.7 MBytes   837 Mbits/sec  34862
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   810 MBytes   680 Mbits/sec  0.000 ms  0/283201 (0%)  sender
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 59612 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  69.1 MBytes   580 Mbits/sec  24169
+[  5]   1.00-2.00   sec  61.2 MBytes   513 Mbits/sec  21383
+[  5]   2.00-3.00   sec  81.6 MBytes   684 Mbits/sec  28509
+[  5]   3.00-4.00   sec  65.9 MBytes   553 Mbits/sec  23022
+[  5]   4.00-5.00   sec  74.6 MBytes   626 Mbits/sec  26080
+[  5]   5.00-6.00   sec  71.8 MBytes   602 Mbits/sec  25102
+[  5]   6.00-7.00   sec  95.8 MBytes   803 Mbits/sec  33477
+[  5]   7.00-8.00   sec  86.7 MBytes   728 Mbits/sec  30321
+[  5]   8.00-9.00   sec  68.5 MBytes   575 Mbits/sec  23947
+[  5]   9.00-10.00  sec  69.7 MBytes   585 Mbits/sec  24357
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   745 MBytes   625 Mbits/sec  0.000 ms  0/260367 (0%)  sender
+[  5]   0.00-10.04  sec  5.13 MBytes  4.29 Mbits/sec  0.255 ms  257291/259085 (99%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 48851 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  79.8 MBytes   669 Mbits/sec  27881
+[  5]   1.00-2.00   sec  80.8 MBytes   678 Mbits/sec  28247
+[  5]   2.00-3.00   sec  71.8 MBytes   602 Mbits/sec  25085
+[  5]   3.00-4.00   sec  79.1 MBytes   663 Mbits/sec  27641
+[  5]   4.00-5.00   sec  86.4 MBytes   725 Mbits/sec  30198
+[  5]   5.00-6.00   sec  98.3 MBytes   825 Mbits/sec  34368
+[  5]   6.00-7.00   sec  57.3 MBytes   481 Mbits/sec  20026
+[  5]   7.00-8.00   sec  71.8 MBytes   602 Mbits/sec  25084
+[  5]   8.00-9.00   sec  73.5 MBytes   616 Mbits/sec  25677
+[  5]   9.00-10.00  sec  95.7 MBytes   803 Mbits/sec  33447
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   794 MBytes   666 Mbits/sec  0.000 ms  0/277654 (0%)  sender
+[  5]   0.00-10.25  sec  1.77 MBytes  1.45 Mbits/sec  0.116 ms  20702/21321 (97%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 36612 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  97.9 MBytes   822 Mbits/sec  34230
+[  5]   1.00-2.00   sec  86.6 MBytes   727 Mbits/sec  30273
+[  5]   2.00-3.00   sec  64.4 MBytes   541 Mbits/sec  22526
+[  5]   3.00-4.00   sec  71.2 MBytes   597 Mbits/sec  24875
+[  5]   4.00-5.00   sec  65.3 MBytes   547 Mbits/sec  22808
+[  5]   5.00-6.00   sec  65.7 MBytes   551 Mbits/sec  22971
+[  5]   6.00-7.00   sec  59.7 MBytes   501 Mbits/sec  20861
+[  5]   7.00-8.00   sec  62.9 MBytes   528 Mbits/sec  21989
+[  5]   8.00-9.00   sec  69.9 MBytes   587 Mbits/sec  24442
+[  5]   9.00-10.00  sec  92.2 MBytes   774 Mbits/sec  32242
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   736 MBytes   617 Mbits/sec  0.000 ms  0/257217 (0%)  sender
+[  5]   0.00-10.26  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 40858 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  72.5 MBytes   608 Mbits/sec  25352
+[  5]   1.00-2.00   sec  83.5 MBytes   701 Mbits/sec  29200
+[  5]   2.00-3.00   sec  73.6 MBytes   617 Mbits/sec  25720
+[  5]   3.00-4.00   sec  93.1 MBytes   781 Mbits/sec  32549
+[  5]   4.00-5.00   sec  96.8 MBytes   812 Mbits/sec  33838
+[  5]   5.00-6.00   sec  73.6 MBytes   617 Mbits/sec  25728
+[  5]   6.00-7.00   sec  82.3 MBytes   690 Mbits/sec  28770
+[  5]   7.00-8.00   sec  69.3 MBytes   581 Mbits/sec  24205
+[  5]   8.00-9.01   sec  80.8 MBytes   672 Mbits/sec  28257
+[  5]   9.01-10.00  sec  74.8 MBytes   634 Mbits/sec  26140
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   800 MBytes   671 Mbits/sec  0.000 ms  0/279759 (0%)  sender
+[  5]   0.00-10.04  sec  6.87 MBytes  5.74 Mbits/sec  0.474 ms  227618/230019 (99%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 41610 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  79.7 MBytes   668 Mbits/sec  27841
+[  5]   1.00-2.00   sec  51.9 MBytes   436 Mbits/sec  18157
+[  5]   2.00-3.00   sec  63.7 MBytes   534 Mbits/sec  22250
+[  5]   3.00-4.00   sec  77.9 MBytes   654 Mbits/sec  27229
+[  5]   4.00-5.00   sec  87.9 MBytes   738 Mbits/sec  30734
+[  5]   5.00-6.00   sec  66.3 MBytes   556 Mbits/sec  23187
+[  5]   6.00-7.00   sec  70.2 MBytes   589 Mbits/sec  24539
+[  5]   7.00-8.00   sec   133 MBytes  1.12 Gbits/sec  46485
+[  5]   8.00-9.00   sec  89.2 MBytes   748 Mbits/sec  31165
+[  5]   9.00-10.00  sec  84.9 MBytes   712 Mbits/sec  29662
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   805 MBytes   675 Mbits/sec  0.000 ms  0/281249 (0%)  sender
+[  5]   0.00-10.26  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 51093 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  64.0 MBytes   537 Mbits/sec  22386
+[  5]   1.00-2.00   sec  71.8 MBytes   602 Mbits/sec  25092
+[  5]   2.00-3.00   sec  89.7 MBytes   752 Mbits/sec  31348
+[  5]   3.00-4.00   sec  81.8 MBytes   686 Mbits/sec  28579
+[  5]   4.00-5.00   sec  82.4 MBytes   691 Mbits/sec  28795
+[  5]   5.00-6.00   sec  74.4 MBytes   624 Mbits/sec  25994
+[  5]   6.00-7.00   sec  63.7 MBytes   535 Mbits/sec  22282
+[  5]   7.00-8.00   sec  65.6 MBytes   550 Mbits/sec  22928
+[  5]   8.00-9.00   sec  64.2 MBytes   538 Mbits/sec  22426
+[  5]   9.00-10.00  sec  69.9 MBytes   586 Mbits/sec  24421
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   727 MBytes   610 Mbits/sec  0.000 ms  0/254251 (0%)  sender
+[  5]   0.00-10.04  sec  2.33 MBytes  1.94 Mbits/sec  0.100 ms  243480/244293 (1e+02%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 40861 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  78.9 MBytes   662 Mbits/sec  27570
+[  5]   1.00-2.00   sec  73.5 MBytes   617 Mbits/sec  25706
+[  5]   2.00-3.00   sec  73.5 MBytes   617 Mbits/sec  25703
+[  5]   3.00-4.00   sec  99.8 MBytes   837 Mbits/sec  34880
+[  5]   4.00-5.00   sec   144 MBytes  1.21 Gbits/sec  50341
+[  5]   5.00-6.00   sec  54.3 MBytes   455 Mbits/sec  18973
+[  5]   6.00-7.00   sec  63.1 MBytes   530 Mbits/sec  22065
+[  5]   7.00-8.00   sec  62.1 MBytes   521 Mbits/sec  21713
+[  5]   8.00-9.01   sec  71.6 MBytes   595 Mbits/sec  25030
+[  5]   9.01-10.00  sec  97.8 MBytes   828 Mbits/sec  34173
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   819 MBytes   687 Mbits/sec  0.000 ms  0/286154 (0%)  sender
+[  5]   0.00-10.26  sec  5.31 MBytes  4.34 Mbits/sec  0.179 ms  149662/151517 (99%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 34873 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  75.9 MBytes   637 Mbits/sec  26524
+[  5]   1.00-2.00   sec  68.6 MBytes   575 Mbits/sec  23966
+[  5]   2.00-3.00   sec  78.8 MBytes   661 Mbits/sec  27551
+[  5]   3.00-4.00   sec  71.1 MBytes   597 Mbits/sec  24864
+[  5]   4.00-5.00   sec  68.1 MBytes   571 Mbits/sec  23810
+[  5]   5.00-6.00   sec  78.6 MBytes   660 Mbits/sec  27487
+[  5]   6.00-7.00   sec  63.6 MBytes   533 Mbits/sec  22217
+[  5]   7.00-8.00   sec  92.2 MBytes   773 Mbits/sec  32211
+[  5]   8.00-9.00   sec  75.2 MBytes   631 Mbits/sec  26297
+[  5]   9.00-10.00  sec  68.4 MBytes   574 Mbits/sec  23913
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   741 MBytes   621 Mbits/sec  0.000 ms  0/258840 (0%)  sender
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 38262 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  80.5 MBytes   675 Mbits/sec  28135
+[  5]   1.00-2.00   sec  87.9 MBytes   738 Mbits/sec  30736
+[  5]   2.00-3.00   sec  77.6 MBytes   651 Mbits/sec  27123
+[  5]   3.00-4.00   sec  71.6 MBytes   600 Mbits/sec  25015
+[  5]   4.00-5.00   sec  65.7 MBytes   551 Mbits/sec  22949
+[  5]   5.00-6.00   sec  48.2 MBytes   404 Mbits/sec  16853
+[  5]   6.00-7.00   sec  75.6 MBytes   635 Mbits/sec  26438
+[  5]   7.00-8.00   sec  64.2 MBytes   538 Mbits/sec  22432
+[  5]   8.00-9.00   sec  71.3 MBytes   598 Mbits/sec  24923
+[  5]   9.00-10.00  sec  77.7 MBytes   652 Mbits/sec  27162
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   720 MBytes   604 Mbits/sec  0.000 ms  0/251766 (0%)  sender
+[  5]   0.00-10.26  sec  4.87 MBytes  3.98 Mbits/sec  0.139 ms  242332/244033 (99%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 43320 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  85.6 MBytes   717 Mbits/sec  29924
+[  5]   1.00-2.00   sec  65.1 MBytes   547 Mbits/sec  22743
+[  5]   2.00-3.00   sec  66.1 MBytes   554 Mbits/sec  23099
+[  5]   3.00-4.00   sec  95.6 MBytes   802 Mbits/sec  33407
+[  5]   4.00-5.00   sec  86.1 MBytes   722 Mbits/sec  30091
+[  5]   5.00-6.00   sec  65.3 MBytes   548 Mbits/sec  22837
+[  5]   6.00-7.00   sec  64.4 MBytes   540 Mbits/sec  22519
+[  5]   7.00-8.00   sec  62.0 MBytes   520 Mbits/sec  21670
+[  5]   8.00-9.00   sec  65.7 MBytes   551 Mbits/sec  22979
+[  5]   9.00-10.00  sec  64.8 MBytes   543 Mbits/sec  22643
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   721 MBytes   605 Mbits/sec  0.000 ms  0/251912 (0%)  sender
+[  5]   0.00-10.04  sec  2.03 MBytes  1.70 Mbits/sec  0.158 ms  24554/25264 (97%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 33048 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  66.3 MBytes   556 Mbits/sec  23168
+[  5]   1.00-2.00   sec  77.4 MBytes   649 Mbits/sec  27058
+[  5]   2.00-3.00   sec  72.7 MBytes   609 Mbits/sec  25396
+[  5]   3.00-4.00   sec  88.2 MBytes   740 Mbits/sec  30845
+[  5]   4.00-5.00   sec  72.4 MBytes   607 Mbits/sec  25305
+[  5]   5.00-6.00   sec  89.9 MBytes   754 Mbits/sec  31431
+[  5]   6.00-7.00   sec  73.2 MBytes   614 Mbits/sec  25569
+[  5]   7.00-8.00   sec  60.5 MBytes   508 Mbits/sec  21162
+[  5]   8.00-9.00   sec  59.2 MBytes   496 Mbits/sec  20681
+[  5]   9.00-10.00  sec  55.4 MBytes   464 Mbits/sec  19349
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   715 MBytes   600 Mbits/sec  0.000 ms  0/249964 (0%)  sender
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 52095 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  82.5 MBytes   692 Mbits/sec  28823
+[  5]   1.00-2.00   sec  87.8 MBytes   737 Mbits/sec  30704
+[  5]   2.00-3.00   sec  94.4 MBytes   792 Mbits/sec  32989
+[  5]   3.00-4.00   sec  75.0 MBytes   629 Mbits/sec  26214
+[  5]   4.00-5.00   sec  82.0 MBytes   688 Mbits/sec  28653
+[  5]   5.00-6.00   sec  65.1 MBytes   546 Mbits/sec  22762
+[  5]   6.00-7.00   sec   102 MBytes   858 Mbits/sec  35736
+[  5]   7.00-8.00   sec   103 MBytes   866 Mbits/sec  36078
+[  5]   8.00-9.00   sec  63.1 MBytes   529 Mbits/sec  22051
+[  5]   9.00-10.00  sec  63.1 MBytes   529 Mbits/sec  22044
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   818 MBytes   687 Mbits/sec  0.000 ms  0/286054 (0%)  sender
+[  5]   0.00-10.04  sec  7.03 MBytes  5.87 Mbits/sec  0.134 ms  253350/255808 (99%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 41278 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  80.4 MBytes   674 Mbits/sec  28100
+[  5]   1.00-2.00   sec  70.6 MBytes   592 Mbits/sec  24681
+[  5]   2.00-3.00   sec  90.2 MBytes   756 Mbits/sec  31513
+[  5]   3.00-4.00   sec   101 MBytes   847 Mbits/sec  35275
+[  5]   4.00-5.00   sec  63.9 MBytes   536 Mbits/sec  22328
+[  5]   5.00-6.00   sec  61.7 MBytes   517 Mbits/sec  21557
+[  5]   6.00-7.00   sec  81.6 MBytes   684 Mbits/sec  28512
+[  5]   7.00-8.00   sec  79.6 MBytes   667 Mbits/sec  27807
+[  5]   8.00-9.00   sec  82.6 MBytes   693 Mbits/sec  28858
+[  5]   9.00-10.00  sec  69.9 MBytes   586 Mbits/sec  24437
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   781 MBytes   655 Mbits/sec  0.000 ms  0/273068 (0%)  sender
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 53072 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  75.9 MBytes   637 Mbits/sec  26529
+[  5]   1.00-2.00   sec  58.7 MBytes   492 Mbits/sec  20509
+[  5]   2.00-3.00   sec  68.6 MBytes   576 Mbits/sec  23987
+[  5]   3.00-4.00   sec   112 MBytes   937 Mbits/sec  39032
+[  5]   4.00-5.00   sec  73.4 MBytes   616 Mbits/sec  25661
+[  5]   5.00-6.00   sec   125 MBytes  1.05 Gbits/sec  43580
+[  5]   6.00-7.00   sec  92.3 MBytes   774 Mbits/sec  32250
+[  5]   7.00-8.00   sec  80.0 MBytes   671 Mbits/sec  27956
+[  5]   8.00-9.00   sec  73.2 MBytes   614 Mbits/sec  25588
+[  5]   9.00-10.00  sec  76.8 MBytes   644 Mbits/sec  26853
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   835 MBytes   701 Mbits/sec  0.000 ms  0/291945 (0%)  sender
+[  5]   0.00-10.04  sec  55.7 KBytes  45.4 Kbits/sec  13.836 ms  286630/286649 (1e+02%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 49695 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  70.5 MBytes   592 Mbits/sec  24654
+[  5]   1.00-2.00   sec  80.5 MBytes   675 Mbits/sec  28135
+[  5]   2.00-3.00   sec  77.3 MBytes   649 Mbits/sec  27024
+[  5]   3.00-4.00   sec  58.3 MBytes   489 Mbits/sec  20364
+[  5]   4.00-5.00   sec  80.4 MBytes   675 Mbits/sec  28107
+[  5]   5.00-6.00   sec  60.3 MBytes   506 Mbits/sec  21092
+[  5]   6.00-7.00   sec  60.9 MBytes   511 Mbits/sec  21299
+[  5]   7.00-8.00   sec  66.0 MBytes   553 Mbits/sec  23061
+[  5]   8.00-9.00   sec  86.0 MBytes   722 Mbits/sec  30072
+[  5]   9.00-10.00  sec  68.6 MBytes   576 Mbits/sec  23990
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   709 MBytes   595 Mbits/sec  0.000 ms  0/247798 (0%)  sender
+[  5]   0.00-10.04  sec  7.44 MBytes  6.22 Mbits/sec  0.201 ms  131867/134469 (98%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 38357 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  80.0 MBytes   671 Mbits/sec  27972
+[  5]   1.00-2.00   sec  66.0 MBytes   553 Mbits/sec  23062
+[  5]   2.00-3.00   sec  87.1 MBytes   730 Mbits/sec  30434
+[  5]   3.00-4.00   sec  83.3 MBytes   699 Mbits/sec  29112
+[  5]   4.00-5.00   sec  76.2 MBytes   639 Mbits/sec  26619
+[  5]   5.00-6.00   sec  66.7 MBytes   560 Mbits/sec  23325
+[  5]   6.00-7.00   sec   104 MBytes   874 Mbits/sec  36434
+[  5]   7.00-8.00   sec  62.9 MBytes   528 Mbits/sec  21992
+[  5]   8.00-9.00   sec   105 MBytes   882 Mbits/sec  36767
+[  5]   9.00-10.00  sec  69.1 MBytes   580 Mbits/sec  24146
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   801 MBytes   672 Mbits/sec  0.000 ms  0/279863 (0%)  sender
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 55496 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  67.1 MBytes   563 Mbits/sec  23469
+[  5]   1.00-2.00   sec   118 MBytes   986 Mbits/sec  41080
+[  5]   2.00-3.00   sec  68.1 MBytes   571 Mbits/sec  23811
+[  5]   3.00-4.00   sec  66.2 MBytes   555 Mbits/sec  23130
+[  5]   4.00-5.00   sec  59.7 MBytes   501 Mbits/sec  20880
+[  5]   5.00-6.00   sec   102 MBytes   856 Mbits/sec  35681
+[  5]   6.00-7.00   sec  74.9 MBytes   629 Mbits/sec  26191
+[  5]   7.00-8.00   sec  82.8 MBytes   695 Mbits/sec  28958
+[  5]   8.00-9.00   sec   102 MBytes   855 Mbits/sec  35608
+[  5]   9.00-10.00  sec  86.5 MBytes   726 Mbits/sec  30237
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   827 MBytes   694 Mbits/sec  0.000 ms  0/289045 (0%)  sender
+[  5]   0.00-10.04  sec  2.46 MBytes  2.05 Mbits/sec  0.266 ms  272433/273292 (1e+02%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 58690 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  75.4 MBytes   632 Mbits/sec  26350
+[  5]   1.00-2.00   sec  98.0 MBytes   822 Mbits/sec  34263
+[  5]   2.00-3.00   sec  77.3 MBytes   649 Mbits/sec  27026
+[  5]   3.00-4.00   sec  61.1 MBytes   513 Mbits/sec  21370
+[  5]   4.00-5.00   sec  70.3 MBytes   589 Mbits/sec  24560
+[  5]   5.00-6.00   sec  83.3 MBytes   698 Mbits/sec  29103
+[  5]   6.00-7.00   sec  78.3 MBytes   657 Mbits/sec  27376
+[  5]   7.00-8.00   sec  70.9 MBytes   595 Mbits/sec  24788
+[  5]   8.00-9.00   sec  91.7 MBytes   769 Mbits/sec  32062
+[  5]   9.00-10.00  sec  63.3 MBytes   531 Mbits/sec  22121
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   770 MBytes   646 Mbits/sec  0.000 ms  0/269019 (0%)  sender
+[  5]   0.00-10.25  sec  4.31 MBytes  3.53 Mbits/sec  0.156 ms  56268/57776 (97%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 58937 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  76.0 MBytes   638 Mbits/sec  26567
+[  5]   1.00-2.00   sec  85.9 MBytes   721 Mbits/sec  30033
+[  5]   2.00-3.00   sec  82.9 MBytes   696 Mbits/sec  28993
+[  5]   3.00-4.00   sec   105 MBytes   884 Mbits/sec  36829
+[  5]   4.00-5.00   sec  70.7 MBytes   593 Mbits/sec  24706
+[  5]   5.00-6.00   sec  73.3 MBytes   615 Mbits/sec  25619
+[  5]   6.00-7.00   sec  91.9 MBytes   771 Mbits/sec  32108
+[  5]   7.00-8.00   sec  74.4 MBytes   624 Mbits/sec  25999
+[  5]   8.00-9.00   sec  88.4 MBytes   741 Mbits/sec  30889
+[  5]   9.00-10.00  sec  59.8 MBytes   502 Mbits/sec  20909
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   809 MBytes   678 Mbits/sec  0.000 ms  0/282652 (0%)  sender
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 34980 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  75.4 MBytes   632 Mbits/sec  26341
+[  5]   1.00-2.00   sec  60.1 MBytes   504 Mbits/sec  20996
+[  5]   2.00-3.00   sec  88.2 MBytes   740 Mbits/sec  30818
+[  5]   3.00-4.00   sec  87.3 MBytes   732 Mbits/sec  30511
+[  5]   4.00-5.00   sec  94.7 MBytes   794 Mbits/sec  33090
+[  5]   5.00-6.00   sec  76.0 MBytes   637 Mbits/sec  26549
+[  5]   6.00-7.00   sec  61.8 MBytes   518 Mbits/sec  21602
+[  5]   7.00-8.00   sec  71.2 MBytes   598 Mbits/sec  24902
+[  5]   8.00-9.00   sec   101 MBytes   845 Mbits/sec  35208
+[  5]   9.00-10.00  sec  47.6 MBytes   399 Mbits/sec  16629
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   763 MBytes   640 Mbits/sec  0.000 ms  0/266646 (0%)  sender
+[  5]   0.00-10.04  sec  6.74 MBytes  5.63 Mbits/sec  0.196 ms  257669/260024 (99%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 55268 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  69.0 MBytes   579 Mbits/sec  24118
+[  5]   1.00-2.00   sec  78.0 MBytes   655 Mbits/sec  27274
+[  5]   2.00-3.00   sec  87.0 MBytes   730 Mbits/sec  30419
+[  5]   3.00-4.00   sec  96.4 MBytes   809 Mbits/sec  33703
+[  5]   4.00-5.00   sec  90.3 MBytes   757 Mbits/sec  31548
+[  5]   5.00-6.00   sec  86.2 MBytes   723 Mbits/sec  30139
+[  5]   6.00-7.00   sec   108 MBytes   908 Mbits/sec  37824
+[  5]   7.00-8.00   sec  71.6 MBytes   600 Mbits/sec  25017
+[  5]   8.00-9.00   sec  78.7 MBytes   660 Mbits/sec  27496
+[  5]   9.00-10.00  sec  75.8 MBytes   636 Mbits/sec  26489
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   841 MBytes   706 Mbits/sec  0.000 ms  0/294027 (0%)  sender
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 55252 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  56.6 MBytes   475 Mbits/sec  19774
+[  5]   1.00-2.00   sec  61.2 MBytes   513 Mbits/sec  21389
+[  5]   2.00-3.00   sec  82.8 MBytes   695 Mbits/sec  28948
+[  5]   3.00-4.00   sec   108 MBytes   909 Mbits/sec  37874
+[  5]   4.00-5.00   sec  60.2 MBytes   505 Mbits/sec  21027
+[  5]   5.00-6.00   sec  71.9 MBytes   603 Mbits/sec  25134
+[  5]   6.00-7.00   sec  66.2 MBytes   555 Mbits/sec  23139
+[  5]   7.00-8.00   sec  82.7 MBytes   694 Mbits/sec  28903
+[  5]   8.00-9.00   sec  75.8 MBytes   636 Mbits/sec  26509
+[  5]   9.00-10.00  sec  52.2 MBytes   438 Mbits/sec  18233
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   718 MBytes   602 Mbits/sec  0.000 ms  0/250930 (0%)  sender
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 34060 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  91.2 MBytes   765 Mbits/sec  31882
+[  5]   1.00-2.00   sec  78.1 MBytes   655 Mbits/sec  27312
+[  5]   2.00-3.00   sec  76.4 MBytes   640 Mbits/sec  26687
+[  5]   3.00-4.00   sec   112 MBytes   942 Mbits/sec  39232
+[  5]   4.00-5.00   sec  70.9 MBytes   594 Mbits/sec  24769
+[  5]   5.00-6.00   sec  86.7 MBytes   727 Mbits/sec  30311
+[  5]   6.00-7.00   sec  66.1 MBytes   554 Mbits/sec  23099
+[  5]   7.00-8.00   sec  71.7 MBytes   601 Mbits/sec  25055
+[  5]   8.00-9.00   sec  56.5 MBytes   474 Mbits/sec  19738
+[  5]   9.00-10.00  sec  73.9 MBytes   619 Mbits/sec  25813
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   784 MBytes   657 Mbits/sec  0.000 ms  0/273898 (0%)  sender
+[  5]   0.00-10.04  sec  7.48 MBytes  6.25 Mbits/sec  0.171 ms  181212/183828 (99%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 33383 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  57.3 MBytes   481 Mbits/sec  20025
+[  5]   1.00-2.00   sec  62.9 MBytes   527 Mbits/sec  21979
+[  5]   2.00-3.00   sec   124 MBytes  1.04 Gbits/sec  43355
+[  5]   3.00-4.00   sec   103 MBytes   866 Mbits/sec  36075
+[  5]   4.00-5.00   sec  57.0 MBytes   478 Mbits/sec  19937
+[  5]   5.00-6.00   sec  98.7 MBytes   828 Mbits/sec  34487
+[  5]   6.00-7.00   sec  80.9 MBytes   679 Mbits/sec  28292
+[  5]   7.00-8.00   sec  75.1 MBytes   630 Mbits/sec  26255
+[  5]   8.00-9.00   sec   102 MBytes   856 Mbits/sec  35662
+[  5]   9.00-10.00  sec  65.4 MBytes   548 Mbits/sec  22845
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   827 MBytes   693 Mbits/sec  0.000 ms  0/288912 (0%)  sender
+[  5]   0.00-10.26  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 56759 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec   103 MBytes   867 Mbits/sec  36116
+[  5]   1.00-2.00   sec  73.3 MBytes   615 Mbits/sec  25610
+[  5]   2.00-3.00   sec  86.8 MBytes   729 Mbits/sec  30355
+[  5]   3.00-4.00   sec  66.0 MBytes   553 Mbits/sec  23058
+[  5]   4.00-5.00   sec  91.9 MBytes   771 Mbits/sec  32116
+[  5]   5.00-6.00   sec  90.3 MBytes   757 Mbits/sec  31552
+[  5]   6.00-7.00   sec   138 MBytes  1.15 Gbits/sec  48120
+[  5]   7.00-8.00   sec   111 MBytes   934 Mbits/sec  38907
+[  5]   8.00-9.00   sec   124 MBytes  1.04 Gbits/sec  43442
+[  5]   9.00-10.00  sec  61.0 MBytes   511 Mbits/sec  21305
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   946 MBytes   793 Mbits/sec  0.000 ms  0/330581 (0%)  sender
+[  5]   0.00-10.25  sec  2.38 MBytes  1.95 Mbits/sec  0.384 ms  310904/311737 (1e+02%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 34934 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  75.8 MBytes   636 Mbits/sec  26505
+[  5]   1.00-2.00   sec  80.6 MBytes   676 Mbits/sec  28170
+[  5]   2.00-3.00   sec  56.5 MBytes   474 Mbits/sec  19754
+[  5]   3.00-4.00   sec  77.6 MBytes   651 Mbits/sec  27116
+[  5]   4.00-5.00   sec  72.1 MBytes   605 Mbits/sec  25189
+[  5]   5.00-6.00   sec  56.9 MBytes   477 Mbits/sec  19892
+[  5]   5.00-6.00   sec  56.9 MBytes   477 Mbits/sec  19892
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-6.00   sec   534 MBytes   747 Mbits/sec  0.000 ms  0/186737 (0%)  sender
+[  5]   0.00-6.00   sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 43441 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.5 Mbits/sec  0.105 ms  468/41664 (1.1%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 37679 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   116 MBytes  96.9 Mbits/sec  0.105 ms  1130/41664 (2.7%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 48200 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4165
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4165
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   117 MBytes  98.1 Mbits/sec  0.239 ms  605/41664 (1.5%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 58459 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.2 Mbits/sec  0.115 ms  592/41664 (1.4%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 49627 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41665 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.5 Mbits/sec  0.071 ms  453/41664 (1.1%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 53345 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.3 Mbits/sec  0.145 ms  550/41664 (1.3%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 55337 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4165
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.7 Mbits/sec  0.093 ms  382/41664 (0.92%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 37041 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   115 MBytes  96.4 Mbits/sec  0.076 ms  1321/41664 (3.2%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 47994 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   117 MBytes  97.8 Mbits/sec  0.098 ms  758/41664 (1.8%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 43632 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4165
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.5 Mbits/sec  0.098 ms  468/41664 (1.1%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 40192 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4168
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41665 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.3 Mbits/sec  0.149 ms  515/41661 (1.2%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 42560 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.5 Mbits/sec  0.042 ms  446/41664 (1.1%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 51146 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4169
+[  5]   3.00-4.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   6.00-7.00   sec  11.9 MBytes  99.9 Mbits/sec  4160
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4172
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   115 MBytes  96.3 Mbits/sec  0.128 ms  1356/41664 (3.3%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 50388 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4165
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   114 MBytes  95.4 Mbits/sec  0.148 ms  1748/41664 (4.2%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 51660 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4165
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41665 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.8 Mbits/sec  0.086 ms  309/41665 (0.74%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 47348 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.3 Mbits/sec  0.107 ms  536/41664 (1.3%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 38135 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4165
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.6 Mbits/sec  0.051 ms  422/41664 (1%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 36394 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4169
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4165
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.8 MBytes  99.0 Mbits/sec  4141
+[  5]   9.00-10.00  sec  12.0 MBytes   101 Mbits/sec  4193
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41665 (0%)  sender
+[  5]   0.00-10.04  sec   117 MBytes  98.1 Mbits/sec  0.095 ms  618/41665 (1.5%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 54457 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.8 Mbits/sec  4160
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4171
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   117 MBytes  98.0 Mbits/sec  0.139 ms  663/41664 (1.6%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 47639 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41665 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.2 Mbits/sec  0.072 ms  594/41665 (1.4%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 35276 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   117 MBytes  97.6 Mbits/sec  0.100 ms  809/41664 (1.9%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 52881 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4165
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.3 Mbits/sec  0.064 ms  541/41664 (1.3%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 46988 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.4 Mbits/sec  0.123 ms  484/41664 (1.2%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 54203 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41665 (0%)  sender
+[  5]   0.00-10.04  sec   116 MBytes  96.8 Mbits/sec  0.127 ms  1157/41665 (2.8%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 38559 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.2 Mbits/sec  0.075 ms  583/41664 (1.4%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 38933 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.4 Mbits/sec  0.089 ms  472/41664 (1.1%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 52446 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4165
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.7 Mbits/sec  0.058 ms  367/41664 (0.88%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 33059 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4165
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4166
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.4 Mbits/sec  0.064 ms  478/41664 (1.1%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 55358 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4169
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4164
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41664 (0%)  sender
+[  5]   0.00-10.04  sec   116 MBytes  96.6 Mbits/sec  0.201 ms  1233/41664 (3%)  receiver
+
+iperf Done.
+Connecting to host 10.1.0.10, port 5201
+[  5] local 10.2.1.10 port 53888 connected to 10.1.0.10 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  11.9 MBytes  99.9 Mbits/sec  4164
+[  5]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   3.00-4.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  4166
+[  5]   5.00-6.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   6.00-7.00   sec  11.9 MBytes   100 Mbits/sec  4167
+[  5]   7.00-8.00   sec  11.9 MBytes   100 Mbits/sec  4165
+[  5]   8.00-9.00   sec  11.9 MBytes   100 Mbits/sec  4168
+[  5]   9.00-10.00  sec  11.9 MBytes   100 Mbits/sec  4167
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec   119 MBytes   100 Mbits/sec  0.000 ms  0/41665 (0%)  sender
+[  5]   0.00-10.04  sec   118 MBytes  98.4 Mbits/sec  0.088 ms  482/41665 (1.2%)  receiver
+
+iperf Done.
