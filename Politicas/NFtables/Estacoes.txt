@@ -1,0 +1,41 @@
+ip saddr 192.168.0.0/23 ip daddr 10.2.0.10 tcp dport 443 accept
+ip saddr 192.168.0.0/23 ip daddr 10.2.0.11 tcp dport 2222 accept
+ip saddr 192.168.0.0/23 ip daddr 10.1.0.10 tcp dport 443 accept
+ip saddr 192.168.0.0/23 ip daddr 10.1.0.11 tcp dport 443 accept
+ip saddr 192.168.2.0/24 ip daddr 10.1.0.10 tcp dport 443 accept
+ip saddr 192.168.2.0/24 ip daddr 10.1.0.11 tcp dport 443 accept
+ip saddr 192.168.0.0/23 ip daddr 10.2.1.10 tcp dport 3389 accept
+ip saddr 192.168.0.0/23 ip daddr 10.2.1.11 tcp dport 445 accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.1.10 tcp dport 443 accept
+ip saddr 192.168.0.0/23 ip daddr 10.4.1.10 tcp dport 443 accept
+ip saddr 192.168.0.0/23 ip daddr 10.2.2.10 tcp dport { 389, 445, 3268 } accept
+ip saddr 10.2.2.10 ip daddr 192.168.0.0/23 tcp dport { 389, 445, 3268 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.2.2.10 udp dport 53 accept
+ip saddr 192.168.2.0/24 ip daddr 10.2.2.10 udp dport 53 accept
+ip saddr 192.168.0.0/23 ip daddr 10.2.2.11 udp dport 67 accept
+ip saddr 192.168.2.0/24 ip daddr 10.2.2.11 udp dport 67 accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.0.10 tcp dport { 443, 3000 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.0.11 tcp dport { 102, 443 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.2.10 tcp dport 8443 accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.3.10 tcp dport 1521 accept
+ip saddr 192.168.0.0/23 ip daddr 10.4.1.10 tcp dport 8443 accept
+ip saddr 192.168.0.0/23 ip daddr 10.4.2.10 tcp dport 1521 accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.0.0/24 tcp dport { 22, 3389 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.1.0/24 tcp dport { 22, 3389 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.2.0/24 tcp dport { 22, 3389 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.3.3.0/24 tcp dport { 22, 3389 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.4.0.0/24 tcp dport { 22, 3389 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.4.2.0/24 tcp dport { 22, 3389 } accept
+ip saddr 192.168.0.0/23 ip daddr 10.4.1.0/24 tcp dport { 22, 3389 } accept
+ip saddr 10.2.1.10 ip daddr 192.168.0.0/23 tcp dport { 22, 3389 } accept
+ip saddr 10.2.1.10 ip daddr 192.168.2.0/24 tcp dport { 22, 3389 } accept
+ip saddr 192.168.0.0/23 ip daddr 201.193.177.111 tcp dport 995 accept
+ip saddr 192.168.0.0/23 ip daddr 192.168.0.0/16 tcp dport { 80, 443 } drop
+ip saddr 192.168.0.0/23 ip daddr 0.0.0.0/0 tcp dport { 80, 443 } accept
+ip saddr 192.168.2.0/24 ip daddr 192.168.0.0/16 tcp dport { 80, 443 } drop
+ip saddr 192.168.2.0/24 ip daddr 0.0.0.0/0 tcp dport { 80, 443 } accept
+tcp flags == 0x11 accept
+tcp flags == 0x12 accept
+tcp flags == ack accept
+tcp flags == rst accept
+ip saddr 0.0.0.0/0 ip daddr 0.0.0.0/0 drop
