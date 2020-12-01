@@ -1,0 +1,28 @@
+ip saddr 0.0.0.0/0 ip daddr 10.1.0.10 tcp dport 443 counter packets 1206 bytes 58952 accept
+ip saddr 0.0.0.0/0 ip daddr 10.1.0.11 tcp dport 443 counter packets 1210 bytes 59192 accept
+ip saddr 10.1.0.10 ip daddr 10.1.1.8/30 tcp dport 8443 counter packets 390 bytes 19147 accept
+ip saddr 10.1.0.11 ip daddr 10.1.1.8/30 tcp dport 8443 counter packets 380 bytes 18640 accept
+ip saddr 10.1.1.10 ip daddr 10.1.2.8/30 tcp dport 1521 counter packets 384 bytes 18816 accept
+ip saddr 10.1.1.11 ip daddr 10.1.2.8/30 tcp dport 1521 counter packets 384 bytes 18816 accept
+ip saddr 10.2.0.10 ip daddr 10.1.2.8/30 tcp dport 1521 counter packets 380 bytes 18640 accept
+ip saddr 10.2.0.11 ip daddr 10.1.2.8/30 tcp dport 1521 counter packets 384 bytes 18816 accept
+ip saddr 10.2.1.10 ip daddr 10.1.0.0/16 tcp dport { 22, 3389 } counter packets 265 bytes 12394 accept
+ip saddr 10.2.1.10 ip daddr 10.1.0.0/16 icmp type { echo-request } counter packets 0 bytes 0 accept
+ip saddr 10.2.1.10 ip daddr 10.1.0.0/16 tcp dport { 443, 1521, 8443 } counter packets 320 bytes 15104 accept
+ip saddr 10.2.1.10 ip daddr 10.1.0.0/16 tcp dport { 445, 2222, 3000 } counter packets 120 bytes 5664 accept
+ip saddr 10.1.0.0/16 ip daddr 10.2.2.10 tcp dport { 389, 445, 3268 } counter packets 1152 bytes 56448 accept
+ip saddr 10.2.2.10 ip daddr 10.1.0.0/16 tcp dport { 389, 445, 3268 } counter packets 1152 bytes 56448 accept
+ip saddr 10.1.0.0/16 ip daddr 10.2.2.10 udp dport 53 counter packets 584 bytes 23360 accept
+ip saddr 10.1.0.0/16 ip daddr 10.2.2.11 udp dport 67 counter packets 584 bytes 16352 accept
+ip saddr 10.3.0.11 ip daddr 10.1.0.8/30 tcp dport 2500 counter packets 378 bytes 18647 accept
+ip saddr 10.3.0.11 ip daddr 10.1.1.8/30 tcp dport 5000 counter packets 372 bytes 18288 accept
+ip saddr 10.1.1.10 ip daddr 10.2.0.10 tcp dport 443 counter packets 192 bytes 9408 accept
+ip saddr 10.1.1.11 ip daddr 10.2.0.10 tcp dport 443 counter packets 192 bytes 9408 accept
+ip saddr 10.1.1.10 ip daddr 10.2.0.11 tcp dport 2222 counter packets 0 bytes 0 accept
+ip saddr 10.1.1.11 ip daddr 10.2.0.11 tcp dport 2222 counter packets 0 bytes 0 accept
+ip saddr 10.1.0.0/16 ip daddr 10.1.0.0/16 icmp type { echo-request } counter packets 11 bytes 924 accept
+tcp flags == 0x11 accept
+tcp flags == 0x12 accept
+tcp flags == ack accept
+tcp flags == rst accept
+ip saddr 0.0.0.0/0 ip daddr 0.0.0.0/0 drop
