@@ -5,7 +5,7 @@ printf "########################################################################
 printf "#                                                                            #\n"
 printf "#                 _   _   _   _   _   _   _   _   _   _   _                  #\n"
 printf "#                / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \                 #\n"
-printf "#               ( P | o | l | i | c | y | - | F | l | o | w )                #\n" 
+printf "#               ( P | o | l | i | c | y | - | F | l | o | w )                #\n"
 printf "#                \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/                 #\n"
 printf "#                     _   _   _   _   _   _   _   _   _                      #\n"
 printf "#                    / \ / \ / \ / \ / \ / \ / \ / \ / \                     #\n"
@@ -13,8 +13,8 @@ printf "#                   ( C | o | n | v | e | r | t | e | r )               
 printf "#                    \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/                     #\n"
 printf "#                                                                            #\n"
 printf "##################################Versao 2.0##################################\n"
-    
-  
+
+
   echo Informe o nome do arquivo de entrada:
   read arq_entrada;
   echo Informe o nome do arquivo de saida OpenFlow:
@@ -25,7 +25,7 @@ printf "##################################Versao 2.0############################
   read bridge_ovs;
 
  #Remove Output
-echo > "" $arq_saida
+#echo > "" $arq_saida
 #Pega numero de Vlans
 echo "Entre com o numero de vlan(s) " ; read nvlan
 #Se nao tiver Vlans
@@ -56,53 +56,53 @@ fi
 #######################substituicao campos string de protocolos########################
 
  substituir_proto_string=( "ip protocol hopopt" "ip protocol icmp" "ip protocol igmp" "ip protocol ggp" "ip protocol ipv4" "ip protocol st" "ip protocol tcp" "ip protocol cbt" "ip protocol egp" "ip protocol igp"
-					 "ip protocol bbn-rcc-mon" "ip protocol nvp-ii" "ip protocol pup" "ip protocol argus" "ip protocol emcon" "ip protocol xnet" "ip protocol chaos" "ip protocol udp" "ip protocol mux" "ip protocol dcn-meas"
-					"ip protocol hmp" "ip protocol prm" "ip protocol xns-idp" "ip protocol trunk-1" "ip protocol trunk-2" "ip protocol leaf-1" "ip protocol leaf-2" "ip protocol rdp" "ip protocol irtp" "ip protocol iso-tp4" "ip protocol netblt"
-					"ip protocol mfe-nsp" "ip protocol merit-inp" "ip protocol dccp" "ip protocol 3pc" "ip protocol idpr" "ip protocol xtp" "ip protocol ddp" "ip protocol idpr-cmtp" "ip protocol tp++" "ip protocol il" "ip protocol ipv6"
-					"ip protocol sdrp" "ip protocol ipv6-route" "ip protocol ipv6-frag" "ip protocol idrp" "ip protocol rsvp" "ip protocol gre" "ip protocol dsr" "ip protocol bna" "ip protocol esp" "ip protocol ah" "ip protocol i-nlsp"
-					"ip protocol swipe" "ip protocol narp" "ip protocol mobile" "ip protocol tlsp" "ip protocol skip" "ip protocol ipv6-icmp" "ip protocol ipv6-nonxt" "ip protocol ipv6-opts" "ip protocol cftp" "ip protocol sat-expak" "ip protocol kryptolan"
-	    			"ip protocol rvd" "ip protocol ippc" "ip protocol sat-mon" "ip protocol visa" "ip protocol ipcv" "ip protocol cpnx" "ip protocol cphb" "ip protocol wsn" "ip protocol pvp" "ip protocol br-sat-mon" "ip protocol sun-nd"
-					"ip protocol wb-mon" "ip protocol wb-expak" "ip protocol iso-ip" "ip protocol vmtp" "ip protocol secure-vmtp" "ip protocol vines" "ip protocol ttp" "ip protocol iptm" "ip protocol nsfnet-igp" "ip protocol dgp"
-					"ip protocol tcf" "ip protocol eigrp" "ip protocol ospfigp" "ip protocol sprite-rpc" "ip protocol larp" "ip protocol mtp" "ip protocol ax.25" "ip protocol ipip" "ip protocol micp" "ip protocol scc-sp"
-					"ip protocol etherip" "ip protocol encap" "ip protocol gmtp" "ip protocol ifmp" "ip protocol pnni" "ip protocol pim" "ip protocol aris" "ip protocol scps" "ip protocol qnx" "ip protocol a/n"
-					"ip protocol ipcomp" "ip protocol snp" "ip protocol compaq-peer" "ip protocol ipx-in-ip" "ip protocol vrrp" "ip protocol pgm" "ip protocol l2tp" "ip protocol ddxcc" "ip protocol iatp" "ip protocol stp" "ip protocol srp"
-					"ip protocol uti" "ip protocol smp" "ip protocol sm" "ip protocol ptp" "ip protocol isis" "ip protocol fire" "ip protocol crtp" "ip protocol crudp" "ip protocol sscopmce" "ip protocol iplt" 
-					"ip protocol sps" "ip protocol pipe" "ip protocol sctp" "ip protocol fc" "ip protocol rsvp-e2e-ignore" "ip protocol mobility header" "ip protocol udplite" "ip protocol mpls-in-ip" "ip protocol manet" "ip protocol hip"
-					"ip protocol shim6" "ip protocol wesp" "ip protocol rohc" "ip protocol ethernet"
+                                         "ip protocol bbn-rcc-mon" "ip protocol nvp-ii" "ip protocol pup" "ip protocol argus" "ip protocol emcon" "ip protocol xnet" "ip protocol chaos" "ip protocol udp" "ip protocol mux" "ip protocol dcn-meas"
+                                        "ip protocol hmp" "ip protocol prm" "ip protocol xns-idp" "ip protocol trunk-1" "ip protocol trunk-2" "ip protocol leaf-1" "ip protocol leaf-2" "ip protocol rdp" "ip protocol irtp" "ip protocol iso-tp4" "ip protocol netblt"
+                                        "ip protocol mfe-nsp" "ip protocol merit-inp" "ip protocol dccp" "ip protocol 3pc" "ip protocol idpr" "ip protocol xtp" "ip protocol ddp" "ip protocol idpr-cmtp" "ip protocol tp++" "ip protocol il" "ip protocol ipv6"
+                                        "ip protocol sdrp" "ip protocol ipv6-route" "ip protocol ipv6-frag" "ip protocol idrp" "ip protocol rsvp" "ip protocol gre" "ip protocol dsr" "ip protocol bna" "ip protocol esp" "ip protocol ah" "ip protocol i-nlsp"
+                                        "ip protocol swipe" "ip protocol narp" "ip protocol mobile" "ip protocol tlsp" "ip protocol skip" "ip protocol ipv6-icmp" "ip protocol ipv6-nonxt" "ip protocol ipv6-opts" "ip protocol cftp" "ip protocol sat-expak" "ip protocol kryptolan"
+                                "ip protocol rvd" "ip protocol ippc" "ip protocol sat-mon" "ip protocol visa" "ip protocol ipcv" "ip protocol cpnx" "ip protocol cphb" "ip protocol wsn" "ip protocol pvp" "ip protocol br-sat-mon" "ip protocol sun-nd"
+                                        "ip protocol wb-mon" "ip protocol wb-expak" "ip protocol iso-ip" "ip protocol vmtp" "ip protocol secure-vmtp" "ip protocol vines" "ip protocol ttp" "ip protocol iptm" "ip protocol nsfnet-igp" "ip protocol dgp"
+                                        "ip protocol tcf" "ip protocol eigrp" "ip protocol ospfigp" "ip protocol sprite-rpc" "ip protocol larp" "ip protocol mtp" "ip protocol ax.25" "ip protocol ipip" "ip protocol micp" "ip protocol scc-sp"
+                                        "ip protocol etherip" "ip protocol encap" "ip protocol gmtp" "ip protocol ifmp" "ip protocol pnni" "ip protocol pim" "ip protocol aris" "ip protocol scps" "ip protocol qnx" "ip protocol a/n"
+                                        "ip protocol ipcomp" "ip protocol snp" "ip protocol compaq-peer" "ip protocol ipx-in-ip" "ip protocol vrrp" "ip protocol pgm" "ip protocol l2tp" "ip protocol ddxcc" "ip protocol iatp" "ip protocol stp" "ip protocol srp"
+                                        "ip protocol uti" "ip protocol smp" "ip protocol sm" "ip protocol ptp" "ip protocol isis" "ip protocol fire" "ip protocol crtp" "ip protocol crudp" "ip protocol sscopmce" "ip protocol iplt"
+                                        "ip protocol sps" "ip protocol pipe" "ip protocol sctp" "ip protocol fc" "ip protocol rsvp-e2e-ignore" "ip protocol mobility header" "ip protocol udplite" "ip protocol mpls-in-ip" "ip protocol manet" "ip protocol hip"
+                                        "ip protocol shim6" "ip protocol wesp" "ip protocol rohc" "ip protocol ethernet"
 )
- 
+
  substituto_proto_string=( "oxm_of_ip_proto 0" "oxm_of_ip_proto 1" "oxm_of_ip_proto 2" "oxm_of_ip_proto 3" "oxm_of_ip_proto 4" "oxm_of_ip_proto 5" "oxm_of_ip_proto 6" "oxm_of_ip_proto 7" "oxm_of_ip_proto 8" "oxm_of_ip_proto 9"
- 					"oxm_of_ip_proto 10" "oxm_of_ip_proto 11" "oxm_of_ip_proto 12" "oxm_of_ip_proto 13" "oxm_of_ip_proto 14" "oxm_of_ip_proto 15" "oxm_of_ip_proto 16" "oxm_of_ip_proto 17" "oxm_of_ip_proto 18" "oxm_of_ip_proto 19"
-					"oxm_of_ip_proto 20" "oxm_of_ip_proto 21" "oxm_of_ip_proto 22" "oxm_of_ip_proto 23" "oxm_of_ip_proto 24" "oxm_of_ip_proto 25" "oxm_of_ip_proto 26" "oxm_of_ip_proto 27" "oxm_of_ip_proto 28" "oxm_of_ip_proto 29"
-					"oxm_of_ip_proto 30" "oxm_of_ip_proto 31" "oxm_of_ip_proto 32" "oxm_of_ip_proto 33" "oxm_of_ip_proto 34" "oxm_of_ip_proto 35" "oxm_of_ip_proto 36" "oxm_of_ip_proto 37" "oxm_of_ip_proto 38" "oxm_of_ip_proto 39"
-					"oxm_of_ip_proto 40" "oxm_of_ip_proto 41" "oxm_of_ip_proto 42" "oxm_of_ip_proto 43" "oxm_of_ip_proto 44" "oxm_of_ip_proto 45" "oxm_of_ip_proto 46" "oxm_of_ip_proto 47" "oxm_of_ip_proto 48" "oxm_of_ip_proto 49"
-					"oxm_of_ip_proto 50" "oxm_of_ip_proto 51" "oxm_of_ip_proto 52" "oxm_of_ip_proto 53" "oxm_of_ip_proto 54" "oxm_of_ip_proto 55" "oxm_of_ip_proto 56" "oxm_of_ip_proto 57" "oxm_of_ip_proto 58" "oxm_of_ip_proto 59"
-					"oxm_of_ip_proto 60" "oxm_of_ip_proto 62" 											"oxm_of_ip_proto 64" "oxm_of_ip_proto 65" "oxm_of_ip_proto 66" "oxm_of_ip_proto 67" 					 "oxm_of_ip_proto 69"
-					"oxm_of_ip_proto 70" "oxm_of_ip_proto 71" "oxm_of_ip_proto 72" "oxm_of_ip_proto 73" "oxm_of_ip_proto 74" "oxm_of_ip_proto 75" "oxm_of_ip_proto 76" "oxm_of_ip_proto 77" "oxm_of_ip_proto 78" "oxm_of_ip_proto 79"
-					"oxm_of_ip_proto 80" "oxm_of_ip_proto 81" "oxm_of_ip_proto 82" "oxm_of_ip_proto 83" "oxm_of_ip_proto 84" "oxm_of_ip_proto 85" "oxm_of_ip_proto 86" "oxm_of_ip_proto 87" "oxm_of_ip_proto 88" "oxm_of_ip_proto 89"
-					"oxm_of_ip_proto 90" "oxm_of_ip_proto 91" "oxm_of_ip_proto 92" "oxm_of_ip_proto 93" "oxm_of_ip_proto 94" "oxm_of_ip_proto 95" "oxm_of_ip_proto 96" "oxm_of_ip_proto 97" "oxm_of_ip_proto 98" 
-					"oxm_of_ip_proto 100" "oxm_of_ip_proto 101" "oxm_of_ip_proto 102" "oxm_of_ip_proto 103" "oxm_of_ip_proto 104" "oxm_of_ip_proto 105" "oxm_of_ip_proto 106" "oxm_of_ip_proto 107" "oxm_of_ip_proto 108" "oxm_of_ip_proto 109"
-					"oxm_of_ip_proto 110" "oxm_of_ip_proto 111" "oxm_of_ip_proto 112" "oxm_of_ip_proto 113"                       "oxm_of_ip_proto 115" "oxm_of_ip_proto 116" "oxm_of_ip_proto 117" "oxm_of_ip_proto 118" "oxm_of_ip_proto 119"
-					"oxm_of_ip_proto 120" "oxm_of_ip_proto 121" "oxm_of_ip_proto 122" "oxm_of_ip_proto 123" "oxm_of_ip_proto 124" "oxm_of_ip_proto 125" "oxm_of_ip_proto 126" "oxm_of_ip_proto 127" "oxm_of_ip_proto 128" "oxm_of_ip_proto 129"
-					"oxm_of_ip_proto 130" "oxm_of_ip_proto 131" "oxm_of_ip_proto 132" "oxm_of_ip_proto 133" "oxm_of_ip_proto 134" "oxm_of_ip_proto 135" "oxm_of_ip_proto 136" "oxm_of_ip_proto 137" "oxm_of_ip_proto 138" "oxm_of_ip_proto 139"
-					"oxm_of_ip_proto 140" "oxm_of_ip_proto 141" "oxm_of_ip_proto 142" "oxm_of_ip_proto 143" 
+                                        "oxm_of_ip_proto 10" "oxm_of_ip_proto 11" "oxm_of_ip_proto 12" "oxm_of_ip_proto 13" "oxm_of_ip_proto 14" "oxm_of_ip_proto 15" "oxm_of_ip_proto 16" "oxm_of_ip_proto 17" "oxm_of_ip_proto 18" "oxm_of_ip_proto 19"
+                                        "oxm_of_ip_proto 20" "oxm_of_ip_proto 21" "oxm_of_ip_proto 22" "oxm_of_ip_proto 23" "oxm_of_ip_proto 24" "oxm_of_ip_proto 25" "oxm_of_ip_proto 26" "oxm_of_ip_proto 27" "oxm_of_ip_proto 28" "oxm_of_ip_proto 29"
+                                        "oxm_of_ip_proto 30" "oxm_of_ip_proto 31" "oxm_of_ip_proto 32" "oxm_of_ip_proto 33" "oxm_of_ip_proto 34" "oxm_of_ip_proto 35" "oxm_of_ip_proto 36" "oxm_of_ip_proto 37" "oxm_of_ip_proto 38" "oxm_of_ip_proto 39"
+                                        "oxm_of_ip_proto 40" "oxm_of_ip_proto 41" "oxm_of_ip_proto 42" "oxm_of_ip_proto 43" "oxm_of_ip_proto 44" "oxm_of_ip_proto 45" "oxm_of_ip_proto 46" "oxm_of_ip_proto 47" "oxm_of_ip_proto 48" "oxm_of_ip_proto 49"
+                                        "oxm_of_ip_proto 50" "oxm_of_ip_proto 51" "oxm_of_ip_proto 52" "oxm_of_ip_proto 53" "oxm_of_ip_proto 54" "oxm_of_ip_proto 55" "oxm_of_ip_proto 56" "oxm_of_ip_proto 57" "oxm_of_ip_proto 58" "oxm_of_ip_proto 59"
+                                        "oxm_of_ip_proto 60" "oxm_of_ip_proto 62"                                                                                       "oxm_of_ip_proto 64" "oxm_of_ip_proto 65" "oxm_of_ip_proto 66" "oxm_of_ip_proto 67"                                   "oxm_of_ip_proto 69"
+                                        "oxm_of_ip_proto 70" "oxm_of_ip_proto 71" "oxm_of_ip_proto 72" "oxm_of_ip_proto 73" "oxm_of_ip_proto 74" "oxm_of_ip_proto 75" "oxm_of_ip_proto 76" "oxm_of_ip_proto 77" "oxm_of_ip_proto 78" "oxm_of_ip_proto 79"
+                                        "oxm_of_ip_proto 80" "oxm_of_ip_proto 81" "oxm_of_ip_proto 82" "oxm_of_ip_proto 83" "oxm_of_ip_proto 84" "oxm_of_ip_proto 85" "oxm_of_ip_proto 86" "oxm_of_ip_proto 87" "oxm_of_ip_proto 88" "oxm_of_ip_proto 89"
+                                        "oxm_of_ip_proto 90" "oxm_of_ip_proto 91" "oxm_of_ip_proto 92" "oxm_of_ip_proto 93" "oxm_of_ip_proto 94" "oxm_of_ip_proto 95" "oxm_of_ip_proto 96" "oxm_of_ip_proto 97" "oxm_of_ip_proto 98"
+                                        "oxm_of_ip_proto 100" "oxm_of_ip_proto 101" "oxm_of_ip_proto 102" "oxm_of_ip_proto 103" "oxm_of_ip_proto 104" "oxm_of_ip_proto 105" "oxm_of_ip_proto 106" "oxm_of_ip_proto 107" "oxm_of_ip_proto 108" "oxm_of_ip_proto 109"
+                                        "oxm_of_ip_proto 110" "oxm_of_ip_proto 111" "oxm_of_ip_proto 112" "oxm_of_ip_proto 113"                       "oxm_of_ip_proto 115" "oxm_of_ip_proto 116" "oxm_of_ip_proto 117" "oxm_of_ip_proto 118" "oxm_of_ip_proto 119"
+                                        "oxm_of_ip_proto 120" "oxm_of_ip_proto 121" "oxm_of_ip_proto 122" "oxm_of_ip_proto 123" "oxm_of_ip_proto 124" "oxm_of_ip_proto 125" "oxm_of_ip_proto 126" "oxm_of_ip_proto 127" "oxm_of_ip_proto 128" "oxm_of_ip_proto 129"
+                                        "oxm_of_ip_proto 130" "oxm_of_ip_proto 131" "oxm_of_ip_proto 132" "oxm_of_ip_proto 133" "oxm_of_ip_proto 134" "oxm_of_ip_proto 135" "oxm_of_ip_proto 136" "oxm_of_ip_proto 137" "oxm_of_ip_proto 138" "oxm_of_ip_proto 139"
+                                        "oxm_of_ip_proto 140" "oxm_of_ip_proto 141" "oxm_of_ip_proto 142" "oxm_of_ip_proto 143"
 )
 
  for ((i=0; i<${#substituir_proto_string[@]}; ++i)); do
 
  printf "Substituindo ${substituir_proto_string[i]} por ${substituto_proto_string[i]}...\n"
- 
+
  sed -i "s/${substituir_proto_string[i]}/${substituto_proto_string[i]}/" $arq_saida
- 
+
  done
- 
+
  sed -i 's/ip protocol/oxm_of_ip_proto/' $arq_saida
- 
+
 ###############################IP de Origem de IP de Destino#################################
 
  sed -i 's/ip saddr/oxm_of_ipv4_src/' $arq_saida
  sed -i 's/ip daddr/oxm_of_ipv4_dst/' $arq_saida
- 
+
 #############################Portas de Origem e Portas de Destino###########################
 
 #Portas
@@ -440,6 +440,39 @@ sed -i 's/isdnlog/@20011/' $arq_saida
 sed -i 's/vboxd/@20012/' $arq_saida
 sed -i 's/binkp/@24554/' $arq_saida
 
+#Portas numericas
+
+sed -i 's/, 1/, @1/' $arq_saida
+sed -i 's/, 2/, @2/' $arq_saida
+sed -i 's/, 3/, @3/' $arq_saida
+sed -i 's/, 4/, @4/' $arq_saida
+sed -i 's/, 5/, @5/' $arq_saida
+sed -i 's/, 6/, @6/' $arq_saida
+sed -i 's/, 7/, @7/' $arq_saida
+sed -i 's/, 8/, @8/' $arq_saida
+sed -i 's/, 9/, @9/' $arq_saida
+
+sed -i 's/{ 1/{ @1/' $arq_saida
+sed -i 's/{ 2/{ @2/' $arq_saida
+sed -i 's/{ 3/{ @3/' $arq_saida
+sed -i 's/{ 4/{ @4/' $arq_saida
+sed -i 's/{ 5/{ @5/' $arq_saida
+sed -i 's/{ 6/{ @6/' $arq_saida
+sed -i 's/{ 7/{ @7/' $arq_saida
+sed -i 's/{ 8/{ @8/' $arq_saida
+sed -i 's/{ 9/{ @9/' $arq_saida
+
+sed -i 's/dport 1/dport @1/' $arq_saida
+sed -i 's/dport 2/dport @2/' $arq_saida
+sed -i 's/dport 3/dport @3/' $arq_saida
+sed -i 's/dport 4/dport @4/' $arq_saida
+sed -i 's/dport 5/dport @5/' $arq_saida
+sed -i 's/dport 6/dport @6/' $arq_saida
+sed -i 's/dport 7/dport @7/' $arq_saida
+sed -i 's/dport 8/dport @8/' $arq_saida
+sed -i 's/dport 9/dport @9/' $arq_saida
+
+
 #TCP single porta
 sed -i 's/tcp dport /oxm_tcp_dst /' $arq_saida
 sed -i 's/tcp sport /oxm_tcp_src /' $arq_saida
@@ -469,7 +502,7 @@ sed -i 's/oxm_tcp_flags { /oxm_tcp_flags /' $arq_saida
 ###################################ICMP  Type#################################################
 
 sed -i 's/icmp type/oxm_of_icmpv4_type/' $arq_saida
- 
+
 #Types
 sed -i 's/@7-reply/0/' $arq_saida
 sed -i 's/destination-unreachable/3/' $arq_saida
@@ -484,7 +517,7 @@ sed -i 's/info-request/15/' $arq_saida
 sed -i 's/info-reply/16/' $arq_saida
 sed -i 's/address-mask-request/17/' $arq_saida
 sed -i 's/address-mask-reply/18/' $arq_saida
-
+sed -i 's/type { /type /' $arq_saida
 
 ###################################MAC Address#################################################
 
@@ -532,7 +565,7 @@ do
 echo $line >> regrasopenflow.tmp
 done
 echo "" > $arq_saida
-cp regrasopenflow.tmp $arq_saida 
+cp regrasopenflow.tmp $arq_saida
 rm -rf regrasopenflow.tmp
 
 #apaga linha que inicia com as seguintes palavras
@@ -616,16 +649,16 @@ sed -i 's/ofpat_set_field ip_dst=/mod_nw_dst=/' $arq_saida_ovs
 #################Loop ajusta para single port###########################
 
 #Remove Output e auxiliar - Nome do txt eh regrasfinal.txt
-cp $arq_saida_ovs entradaovs.tmp 
-echo "" > $arq_saida_ovs   
-	   
+cp $arq_saida_ovs entradaovs.tmp
+echo "" > $arq_saida_ovs
+
 #Comeca loop por linha - Nome do arquivo eh regraserradas.txt
                 cat entradaovs.tmp |while read line;
                 do
 #Transfere linha a linha para um arquivo txt para evitar que ele rode os comandos de firewall
         echo $line > auxiliar.tmp
 #Cria o contador n - soma de @ na linha
-                n=`cat auxiliar.tmp | grep -o \@ |wc -w`    
+                n=`cat auxiliar.tmp | grep -o \@ |wc -w`
 #Cria o contador m - soma de @ na linha mais um
         m=`expr $n + 1`
 #Coloca tudo antes dos @ para a variavel inicio
@@ -641,12 +674,12 @@ if [ "$n" -eq "0" ]; then
 
 
 #Caso2 - Uma porta ou mais - Retira os @ e exporta para o arquivo regrasfinal.txt
-else 
+else
         for i in $(seq 2 $n);
             do
                     porta=`cat auxiliar.tmp | cut -d @ -f $i`
                    echo $inicio$porta$final >> $arq_saida_ovs
-        done    
+        done
 fi
 done
 
@@ -662,10 +695,3 @@ sed -i 's/ /,/g' $arq_saida_ovs
 sed -i '/^$/d' $arq_saida_ovs
 #adiciona parametros no inicio da linha
 sed -i "s/^/ovs-ofctl add-flow $bridge_ovs /" $arq_saida_ovs
-
-
-
-
-
-
-
