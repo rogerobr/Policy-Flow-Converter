@@ -1,0 +1,31 @@
+oxm_of_ipv4_src 10.1.0.0/24 oxm_of_ipv4_dst 10.1.0.0/24 ofpat_output
+oxm_of_ipv4_src 10.1.1.0/24 oxm_of_ipv4_dst 10.1.1.0/24 ofpat_output
+oxm_of_ipv4_src 10.1.2.0/24 oxm_of_ipv4_dst 10.1.2.0/24 ofpat_output
+oxm_of_ipv4_src 0.0.0.0/0 oxm_of_ipv4_dst 10.1.0.10 oxm_tcp_dst @443@ ofpat_output
+oxm_of_ipv4_src 0.0.0.0/0 oxm_of_ipv4_dst 10.1.0.11 oxm_tcp_dst @443@ ofpat_output
+oxm_of_ipv4_src 10.1.0.10 oxm_of_ipv4_dst 10.1.1.8/30 oxm_tcp_dst @8443@ ofpat_output
+oxm_of_ipv4_src 10.1.0.11 oxm_of_ipv4_dst 10.1.1.8/30 oxm_tcp_dst @8443@ ofpat_output
+oxm_of_ipv4_src 10.1.1.10 oxm_of_ipv4_dst 10.1.2.8/30 oxm_tcp_dst @1521@ ofpat_output
+oxm_of_ipv4_src 10.1.1.11 oxm_of_ipv4_dst 10.1.2.8/30 oxm_tcp_dst @1521@ ofpat_output
+oxm_of_ipv4_src 10.2.0.10 oxm_of_ipv4_dst 10.1.2.8/30 oxm_tcp_dst @1521@ ofpat_output
+oxm_of_ipv4_src 10.2.0.11 oxm_of_ipv4_dst 10.1.2.8/30 oxm_tcp_dst @1521@ ofpat_output
+oxm_of_ipv4_src 10.2.1.10 oxm_of_ipv4_dst 10.1.0.0/16 oxm_tcp_dst @22, @3389@ ofpat_output
+oxm_of_ipv4_src 10.2.1.10 oxm_of_ipv4_dst 10.1.0.0/16 oxm_of_icmpv4_type 8 ofpat_output
+oxm_of_ipv4_src 10.2.1.10 oxm_of_ipv4_dst 10.1.0.0/16 oxm_tcp_dst @443, @1521, @8443@ ofpat_output
+oxm_of_ipv4_src 10.2.1.10 oxm_of_ipv4_dst 10.1.0.0/16 oxm_tcp_dst @445, @2222, @3000@ ofpat_output
+oxm_of_ipv4_src 10.1.0.0/16 oxm_of_ipv4_dst 10.2.2.10 oxm_tcp_dst @389, @445, @3268@ ofpat_output
+oxm_of_ipv4_src 10.2.2.10 oxm_of_ipv4_dst 10.1.0.0/16 oxm_tcp_dst @389, @445, @3268@ ofpat_output
+oxm_of_ipv4_src 10.1.0.0/16 oxm_of_ipv4_dst 10.2.2.10 oxm_udp_dst @53@ ofpat_output
+oxm_of_ipv4_src 10.1.0.0/16 oxm_of_ipv4_dst 10.2.2.11 oxm_udp_dst @67@ ofpat_output
+oxm_of_ipv4_src 10.3.0.11 oxm_of_ipv4_dst 10.1.0.8/30 oxm_tcp_dst @2500@ ofpat_output
+oxm_of_ipv4_src 10.3.0.11 oxm_of_ipv4_dst 10.1.1.8/30 oxm_tcp_dst @5000@ ofpat_output
+oxm_of_ipv4_src 10.1.1.10 oxm_of_ipv4_dst 10.2.0.10 oxm_tcp_dst @443@ ofpat_output
+oxm_of_ipv4_src 10.1.1.11 oxm_of_ipv4_dst 10.2.0.10 oxm_tcp_dst @443@ ofpat_output
+oxm_of_ipv4_src 10.1.1.10 oxm_of_ipv4_dst 10.2.0.11 oxm_tcp_dst @2222@ ofpat_output
+oxm_of_ipv4_src 10.1.1.11 oxm_of_ipv4_dst 10.2.0.11 oxm_tcp_dst @2222@ ofpat_output
+oxm_of_ipv4_src 10.1.0.0/16 oxm_of_ipv4_dst 10.1.0.0/16 oxm_of_icmpv4_type 8 ofpat_output
+oxm_tcp_flags == 0x11 ofpat_output
+oxm_tcp_flags == 0x12 ofpat_output
+oxm_tcp_flags == ack ofpat_output
+oxm_tcp_flags == rst ofpat_output
+oxm_of_ipv4_src 0.0.0.0/0 oxm_of_ipv4_dst 0.0.0.0/0 ofpmbt_drop
